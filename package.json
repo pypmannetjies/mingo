@@ -31,7 +31,7 @@
     "@types/tape": "4.13.1",
     "@types/lodash": "4.14.171",
     "codecov": "3.8.3",
-    "eslint": "7.30.0",
+    "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.23.4",
     "eslint-plugin-prettier": "3.4.0",
